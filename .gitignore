@@ -1,0 +1,28 @@
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+ml-env/
+venv/
+env/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Machine Learning & Data (DO NOT UPLOAD)
+*.csv
+*.dat
+*.json
+*.h5
+*.pb
+*.keras
+data/
+datasets/
+models/
+logs/
+
+# VS Code Settings
+.vscode/
